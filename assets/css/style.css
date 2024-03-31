@@ -16,19 +16,22 @@ body {
       width:70vw;
       padding: 2rem;
   }
-  
+
   main {
     display: grid;
     place-items: center;
    justify-content: center;
    margin: 5vh;
-   padding: 2em;
+   padding: 1em;
   }
 
    main:hover {
     box-shadow: 0 0 11px rgba(33,33,33,.2); 
   }
 
+  section {
+    margin: 1vh;
+  }
 
 ul {
     list-style: none;
